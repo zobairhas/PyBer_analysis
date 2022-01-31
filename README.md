@@ -47,7 +47,7 @@ total_fare_resample_df = total_fare_pivot_df.resample("W").sum()
 ![PyBer_Linechart](https://user-images.githubusercontent.com/44425379/151722361-6e92d08e-0b76-41a3-bbbf-32bbcce5e7cf.png)
 
 ## PyBer Analysis Results
-- Urban areas have the highest number of total rides, drivers, and fares. Although the average fare per ride and average fare per driver is significantly lower than the other two city types; however, Urban areas make up for it with a higher quantity of rides.
+- Urban areas have the highest number of total rides, drivers, and fares. Although the average fare per ride and average fare per driver is significantly lower than the other two city types; Urban areas make up for it with a higher quantity of rides.
 - Urban areas have 13x the number of rides compared to Rural areas and 2.6x the number of rides compared to Suburban areas.
 
 **Pyber Summary DataFrame Output:**
